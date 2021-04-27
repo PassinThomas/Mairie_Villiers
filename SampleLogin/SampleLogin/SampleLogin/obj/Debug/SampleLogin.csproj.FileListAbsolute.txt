@@ -1,0 +1,13 @@
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.csprojResolveAssemblyReference.cache
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.Form1.resources
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.Login.resources
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.Properties.Resources.resources
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.csproj.GenerateResource.Cache
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.csproj.CoreCompileInputs.cache
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\bin\Debug\SampleLogin.exe.config
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\bin\Debug\SampleLogin.exe
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\bin\Debug\SampleLogin.pdb
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.exe
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.pdb
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.Admin.resources
+C:\Users\jocelyn\source\repos\SampleLogin\SampleLogin\obj\Debug\SampleLogin.Utilisateur.resources
