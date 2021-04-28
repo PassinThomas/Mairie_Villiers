@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\passi\\Documents\\projects\\projects.csproj": {}
+    "C:\\Users\\passi\\Documents\\Projects\\projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\passi\\Documents\\projects\\projects.csproj": {
+    "C:\\Users\\passi\\Documents\\Projects\\projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\passi\\Documents\\projects\\projects.csproj",
+        "projectUniqueName": "C:\\Users\\passi\\Documents\\Projects\\projects.csproj",
         "projectName": "projects",
-        "projectPath": "C:\\Users\\passi\\Documents\\projects\\projects.csproj",
+        "projectPath": "C:\\Users\\passi\\Documents\\Projects\\projects.csproj",
         "packagesPath": "C:\\Users\\passi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\passi\\Documents\\projects\\obj\\",
+        "outputPath": "C:\\Users\\passi\\Documents\\Projects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\passi\\AppData\\Roaming\\NuGet\\NuGet.Config",
